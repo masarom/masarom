@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **romansanmaria@gmail.com**
 
-- 📄 Know about my experiences [English Resume](https://drive.google.com/file/d/1ZVrNhxDSfhzisCeRq-_sYvYoiutQ1TvW/view?usp=sharing) [CV Español](https://drive.google.com/file/d/1IS2GMXgZ_12dJxk7kofpn8W1B1rTauvb/view?usp=sharing)
+- 📄 Know about my experiences [English Resume](https://drive.google.com/file/d/1ZVrNhxDSfhzisCeRq-_sYvYoiutQ1TvW/view?usp=sharing) || [CV Español](https://drive.google.com/file/d/1IS2GMXgZ_12dJxk7kofpn8W1B1rTauvb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
