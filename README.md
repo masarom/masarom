@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Sanchez</h1>
 <h3 align="center">A curious and passionate frontend developer from Spain</h3>
 
-- Check out my portfolio at: [https://masarom.github.io/portfolio/](https://masarom.github.io/portfolio/)
+<h4>Check out my portfolio at: [https://masarom.github.io/portfolio/](https://masarom.github.io/portfolio/)</h4>
 
 - 🔭 I’m currently working on [Cooking Recipes React App](https://github.com/masarom/cooking-recipes)
 
