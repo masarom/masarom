@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria Sanchez</h1>
 <h3 align="center">A curious and passionate frontend developer from Spain</h3>
 
+- Check out my portfolio at: [https://masarom.github.io/portfolio/](https://masarom.github.io/portfolio/)
+
 - 🔭 I’m currently working on [Cooking Recipes React App](https://github.com/masarom/cooking-recipes)
 
-- 🌱 I’m currently improving my skills on **Jest, React JS, and TypeScript**
+- 🌱 I’m currently improving my skills on **Jest, Testing Library, React JS, and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masarom](https://github.com/masarom)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **romansanmaria@gmail.com**
 
-- 📄 Know about my experiences [English Resume](https://drive.google.com/file/d/1ZVrNhxDSfhzisCeRq-_sYvYoiutQ1TvW/view?usp=sharing) || [CV Español](https://drive.google.com/file/d/1IS2GMXgZ_12dJxk7kofpn8W1B1rTauvb/view?usp=sharing)
+- 📄 Know about my experiences [English Resume](https://drive.google.com/file/d/1THbPBnRXN_LG9TpIdj_HoqVUN5OUfabg/view?usp=sharing) || [CV Español](https://drive.google.com/file/d/16D4M4LJaXONxBvau_JF1s6rBbhoZzKM0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
